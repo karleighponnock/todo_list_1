@@ -12,11 +12,19 @@ class TodoList extends Component {
     }
 
     addItem(e) {
-        if (this._inputElement !== ""){
-            var newItem ={
+        if (this._inputElement !== "") {
+            var newItem = {
                 text: this._inputElement.value,
                 key: Date.now()
             };
+
+
+            this.setState((prevState) => {
+                return {
+                    items: prevState.items.concat(newItem)
+                }
+            }
+            );
         }
     }
 
