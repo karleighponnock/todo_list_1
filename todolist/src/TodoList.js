@@ -22,10 +22,11 @@ class TodoList extends Component {
             this.setState((prevState) => {
                 return {
                     items: prevState.items.concat(newItem)
-                }
-            }
-            );
+                };
+            });
         }
+
+        this._inputElement.value = "";
     }
 
 
