@@ -22,3 +22,7 @@
     border-radius: 5px;
     list-style: none;
 }
+
+ul.theList{
+    padding: 0;
+}
