@@ -1,19 +1,24 @@
 import React, { Component } from "react";
 
 class TodoList extends Component {
-    constructor(props){
+    constructor(props) {
         super(props);
 
         this.state = {
             items: []
         }
 
-this.addItem = this.addItem.bind(this);
-}
+        this.addItem = this.addItem.bind(this);
+    }
 
-addItem(e){
-
-}
+    addItem(e) {
+        if (this._inputElement !== "")){
+            var newItem ={
+                text: this._inputElement.value,
+                key: Date.now()
+            };
+        }
+    }
 
 
     render() {
