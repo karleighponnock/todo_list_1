@@ -1,11 +1,10 @@
 import React, { Component } from "react";
-import TodoList from "./TodoList";
+
 
 class TodoItems extends Component {
     createTasks(item) {
         return <li key={item.key}>{item.text}</li>
     }
-
 
     render() {
         var todoEntries = this.props.entries;
@@ -15,7 +14,7 @@ class TodoItems extends Component {
             <ul className="theList">
                 {listItems}
             </ul>
-        )
+        );
     }
 }
 
