@@ -27,7 +27,7 @@ Practice React Todo List 1
 
   ## How_to_use
   - run npm start
-  use input text box to type in new item
+  use input text box to type in new item press enter ot the submit button
   when item is added to page text box will clear
   now you can add another item OR
   click on item you want to delete and it will be removed
