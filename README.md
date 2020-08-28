@@ -12,8 +12,7 @@ Practice React Todo List 1
   - [redits](#Credits)
 
  ## Screenshots_and_GIFs 
- ![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
-  - ![Screenshot of deployed project](public/assets/images/one.png?raw=true) 
+  - ![Screenshot of deployed project](todolist/public/assets/images/one.png?raw=true) 
   - ![Screenshot of deployed project](public/assets/images/two.png)
   - ![Screenshot of deployed project](public/images/three.png)  
   - ![Screenshot of deployed project](public/assets/images/four.png)
