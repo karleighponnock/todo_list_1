@@ -23,7 +23,7 @@ Practice React Todo List 1
   Simply to practive basic react features. 
 
   ## Installation 
-  - npm i sequelize express-handlebars mysql2 bcryptjs passport express
+  - npm i 
 
   ## How_to_use
   - run npm start
