@@ -8,3 +8,13 @@ body{
     display: flex;
     justify-content: flex;
 }
+
+button{
+    background-color: rgb(68, 68, 255);
+    height: 45px;
+    width: 50px;
+    margin-left: 10px;
+    color: white;
+    border-style: none;
+
+}
