@@ -23,6 +23,11 @@
     list-style: none;
 }
 
+.todoListMain .theList li:hover{
+    background-color: pink;
+    cursor: pointer;
+}
+
 ul.theList{
     padding: 0;
 }
