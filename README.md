@@ -14,9 +14,9 @@ Practice React Todo List 1
  ## Screenshots_and_GIFs 
   - ![Screenshot of deployed project](todolist/public/assets/images/one.png) 
   - ![Screenshot of deployed project](todolist/public/assets/images/two.png)
-  - ![Screenshot of deployed project](todolist/public/images/three.png)  
+  - ![Screenshot of deployed project](todolist/public/assets/images/three.png)  
   - ![Screenshot of deployed project](todolist/public/assets/images/four.png)
-  - ![Screenshot of deployed project](todolist/public/images/five.png)  
+  - ![Screenshot of deployed project](todolist/public/assets/images/five.png)  
   - ![Screenshot of deployed project](todolist/public/assets/images/six.png)
   
   ## Motivation
