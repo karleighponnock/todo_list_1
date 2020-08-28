@@ -9,7 +9,7 @@ Practice React Todo List 1
   - [Motivation](#Motivation)
   - [Installation](#Installation)
   - [How_to_use](#How_to_use)
-  - [redits](#Credits)
+  - [Credits](#Credits)
 
  ## Screenshots_and_GIFs 
   - ![Screenshot of deployed project](todolist/public/assets/images/one.png) 
